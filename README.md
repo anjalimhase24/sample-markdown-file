@@ -71,6 +71,14 @@ You will see a tab called 'My Stats'. Click on it. There, you can check how many
 
 After that, open the 'Peers' tab. Here, you will see your rank, such as 1st, 2nd, and so on, based on your assignment performance. If you open the website daily, your daily streak will also be displayed here.
 
+<img width="1522" height="653" alt="Screenshot 2026-06-30 220215" src="https://github.com/user-attachments/assets/cf089eb4-a23b-4eef-9e10-6e76dbcfc03c" />
+
+
+# When you click on a student, you will be able to see their status.
+
+<img width="1536" height="786" alt="image" src="https://github.com/user-attachments/assets/1d990bd1-8e75-4c38-876a-632ee91ca8e1" />
+Here, you will see your profile, including when you joined, how many skill badges you have earned. You will also be able to see your followers and following
+
 ## Need Help? 🤝
 
 If you are unable to access your course, contact the RoadToCode support team.
