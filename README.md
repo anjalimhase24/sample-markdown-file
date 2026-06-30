@@ -60,9 +60,10 @@ After that, once ICP_16 is opened, you will see the course content on the screen
 
 <img width="1526" height="810" alt="image" src="https://github.com/user-attachments/assets/9e646ccb-36fd-4c0a-a1b7-9acaa7809bb6" />
 
-<img width="1531" height="822" alt="image" src="https://github.com/user-attachments/assets/28cc7088-7a13-4a04-8d94-f7512126562f" />
 
 You will see a tab called 'My Stats'. Click on it. There, you can check how many assignments you have completed, your average completion time, your course rank, and your peak activity. It also shows how much you study during the week, along with your score overview and assignment performance.
+
+<img width="1531" height="822" alt="image" src="https://github.com/user-attachments/assets/28cc7088-7a13-4a04-8d94-f7512126562f" />
 
 ## Need Help? 🤝
 
