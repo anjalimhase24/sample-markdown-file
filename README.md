@@ -50,13 +50,19 @@ They have a many courses here. Click on the course that you have access to. Like
 
 <img width="1533" height="825" alt="image" src="https://github.com/user-attachments/assets/923478b1-6ce7-4fdd-b633-0e0d6ffade6d" />
 
+
+After that, once ICP_16 is opened, you will see the course content on the screen. It contains Recorded Lecture , Notes, and Assignments.
+
+
 <img width="1536" height="816" alt="image" src="https://github.com/user-attachments/assets/e00f3766-c472-43b3-a56a-45db16ff3cfd" />
 
 <img width="1535" height="822" alt="image" src="https://github.com/user-attachments/assets/ddc3c677-84e9-43fa-9767-6b6f3484f654" />
 
 <img width="1526" height="810" alt="image" src="https://github.com/user-attachments/assets/9e646ccb-36fd-4c0a-a1b7-9acaa7809bb6" />
 
-After that, once ICP_16 is opened, you will see the course content on the screen. It contains Recorded Lecture , Notes, and Assignments.
+<img width="1531" height="822" alt="image" src="https://github.com/user-attachments/assets/28cc7088-7a13-4a04-8d94-f7512126562f" />
+
+You will see a tab called 'My Stats'. Click on it. There, you can check how many assignments you have completed, your average completion time, your course rank, and your peak activity. It also shows how much you study during the week, along with your score overview and assignment performance.
 
 ## Need Help? 🤝
 
