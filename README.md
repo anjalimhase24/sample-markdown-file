@@ -5,6 +5,7 @@ Welcome to the RoadToCode Course!
 Follow these simple steps to access your course:
 
 ## Step 1: Visit Google 🌐
+
 <img width="1536" height="707" alt="Screenshot 2026-06-30 211352" src="https://github.com/user-attachments/assets/dbbbc6f1-ad71-4637-b2a9-cb4a19290006" />
 
  Serach Road to Code
@@ -45,10 +46,17 @@ Click on your course to start learning.
 
 <img width="1536" height="808" alt="image" src="https://github.com/user-attachments/assets/e0e43b2b-6988-4468-bb13-27020e664bce" />
 
-There have a many courses here. Click on the course have access to. Like a ICP-17 
+They have a many courses here. Click on the course that you have access to. Like a ICP-16
 
-<img width="1521" height="816" alt="image" src="https://github.com/user-attachments/assets/f97719e9-2c17-42c9-972a-6d54404aa9e4" />
+<img width="1533" height="825" alt="image" src="https://github.com/user-attachments/assets/923478b1-6ce7-4fdd-b633-0e0d6ffade6d" />
 
+<img width="1536" height="816" alt="image" src="https://github.com/user-attachments/assets/e00f3766-c472-43b3-a56a-45db16ff3cfd" />
+
+<img width="1535" height="822" alt="image" src="https://github.com/user-attachments/assets/ddc3c677-84e9-43fa-9767-6b6f3484f654" />
+
+<img width="1526" height="810" alt="image" src="https://github.com/user-attachments/assets/9e646ccb-36fd-4c0a-a1b7-9acaa7809bb6" />
+
+After that, once ICP_16 is opened, you will see the course content on the screen. It contains Recorded Lecture , Notes, and Assignments.
 
 ## Need Help? 🤝
 
