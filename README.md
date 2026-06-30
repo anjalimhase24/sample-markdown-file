@@ -65,6 +65,12 @@ You will see a tab called 'My Stats'. Click on it. There, you can check how many
 
 <img width="1531" height="822" alt="image" src="https://github.com/user-attachments/assets/28cc7088-7a13-4a04-8d94-f7512126562f" />
 
+<img width="1536" height="633" alt="image" src="https://github.com/user-attachments/assets/180f6c29-1cb3-46f5-a06e-e54f744d60d9" />
+
+<img width="1511" height="627" alt="image" src="https://github.com/user-attachments/assets/1e6154e4-348b-40fa-9b30-93fe2e6cf956" />
+
+After that, open the 'Peers' tab. Here, you will see your rank, such as 1st, 2nd, and so on, based on your assignment performance. If you open the website daily, your daily streak will also be displayed here.
+
 ## Need Help? 🤝
 
 If you are unable to access your course, contact the RoadToCode support team.
